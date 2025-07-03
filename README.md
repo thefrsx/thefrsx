@@ -1,64 +1,64 @@
 # 📌 Teófilo Gomes Farias
 
-**📍 Localização:** Teresina, Piauí – Brasil  
-**🎯 Objetivo:** Busco minha primeira oportunidade como desenvolvedor backend com Python e Django  
+**📍 Location:** Teresina, Piauí – Brazil  
+**🎯 Objective:** Seeking my first opportunity as a backend developer with Python and Django  
 **🔗 LinkedIn:** [thefrsx](https://www.linkedin.com/in/thefrsx)  
 **💻 GitHub:** [github.com/thefrsx](https://github.com/thefrsx)
 
 ---
 
-## 🎓 Formação
+## 🎓 Education
 
-- **Django Master** – Curso com Felipe Azambuja *(em andamento)*
-- **Python Completo** – Curso em Vídeo com Gustavo Guanabara *(Finalizado)*
-
----
-
-## 💻 Projetos em Desenvolvimento
-
-### 🗂 Sistema de Gerenciamento de Tarefas
-Aplicativo web para organização de tarefas pessoais e profissionais, com filtros por status e vencimento.  
-**Tecnologias:** Python, Django, HTML, CSS, SQLite
-
-### 📝 Blog com Autenticação
-Projeto de blog com login de usuários, sistema de comentários e painel administrativo.  
-**Tecnologias:** Django, Django Admin, Bootstrap, SQLite
+- **Django Master** – Course with Felipe Azambuja *(in progress)*  
+- **Complete Python** – Course by Gustavo Guanabara *(completed)*
 
 ---
 
-## 🧠 Conhecimentos Técnicos
+## 💻 Projects in Development
 
-- **Linguagens:** Python, HTML, CSS
-- **Frameworks & Ferramentas:** Django, Django Admin, Bootstrap, Git
-- **Banco de Dados:** SQLite, PostgreSQL
-- **Em estudo:** APIs REST, autenticação, validação de formulários, deploy (Render, PythonAnywhere), personalização do Django Admin
-- **Versionamento:** Git (commit, push, pull), GitHub
+### 🗂 Task Management System  
+Web app for organizing personal and professional tasks, with filters by status and due date.  
+**Technologies:** Python, Django, HTML, CSS, SQLite
+
+### 📝 Blog with Authentication  
+Blog project with user login, comment system, and admin panel.  
+**Technologies:** Django, Django Admin, Bootstrap, SQLite
 
 ---
 
-## 💼 Experiências Profissionais
+## 🧠 Technical Skills
 
-### 👔 Gerente de Lavanderia Industrial *(atual)*
-Coordenação de equipe, gestão de produção e processos operacionais.
+- **Languages:** Python, HTML, CSS  
+- **Frameworks & Tools:** Django, Django Admin, Bootstrap, Git  
+- **Databases:** SQLite, PostgreSQL  
+- **Currently learning:** REST APIs, authentication, form validation, deploy (Render, PythonAnywhere), Django Admin customization  
+- **Version control:** Git (commit, push, pull), GitHub
 
-### 🧠 Estágios em Psicologia
-Experiências em contextos hospitalar, empresarial e social.
+---
 
-### 🏗 Assistente Administrativo – Construtora
-Organização documental e suporte em rotinas de escritório.
+## 💼 Professional Experience
+
+### 👔 Industrial Laundry Manager *(current)*  
+Team coordination, production management, and operational processes.
+
+### 🧠 Psychology Internships  
+Experience in hospital, corporate, and social settings.
+
+### 🏗 Administrative Assistant – Construction Company  
+Document organization and support in office routines.
 
 ---
 
 ## 💡 Soft Skills
 
-- Comunicação clara  
-- Resolução de problemas  
-- Aprendizado contínuo  
-- Pensamento analítico  
-- Responsabilidade
+- Clear communication  
+- Problem-solving  
+- Continuous learning  
+- Analytical thinking  
+- Responsibility
 
 ---
 
-## 🌐 Idiomas
+## 🌐 Languages
 
-- **Inglês fluente** – fala e escrita
+- **English fluent** – speaking and writing
