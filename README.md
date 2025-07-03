@@ -60,5 +60,5 @@ Document organization and support in office routines.
 ---
 
 ## 🌐 Languages
-
+- **Portuguese (Brazil)** – native
 - **English fluent** – speaking and writing
