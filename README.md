@@ -1,8 +1,7 @@
 # 📌 Teófilo Gomes Farias
 
 **📍 Location:** Teresina, Piauí – Brazil  
-**🎯 Objective:** Seeking my first opportunity as a backend developer with Python and Django  
-**🔗 LinkedIn:** [thefrsx](https://www.linkedin.com/in/thefrsx)  
+**🎯 Objective:** develop my skill as a backend developer with Python and Django  
 **💻 GitHub:** [github.com/thefrsx](https://github.com/thefrsx)
 
 ---
@@ -38,8 +37,9 @@ Blog project with user login, comment system, and admin panel.
 
 ## 💼 Professional Experience
 
-### 👔 Industrial Laundry Manager *(current)*  
+### 👔 Industrial Laundry Manager and Database Engineer *(current)*  
 Team coordination, production management, and operational processes.
+Maintenance and DB developer.
 
 ### 🧠 Psychology Internships  
 Experience in hospital, corporate, and social settings.
