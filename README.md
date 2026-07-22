@@ -14,7 +14,13 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefrsx&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=thefrsx&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thefrsx&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 
@@ -28,7 +34,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -36,9 +44,27 @@
 
 ## About me
 
-I'm a FullStack developer in progress, focused on web projects, automation, and system organization.
+I'm Teo Farias, a FullStack developer in progress, focused on web projects, automation, and system organization.
 
 I'm currently practicing HTML, CSS, JavaScript, Python, Django, SQL, Git, and GitHub. I'm also learning about AI-assisted development, MCP, and agentic programming.
+
+My way of working is to turn messy problems into clear steps: understand the goal, organize the scope, build, test, and document.
+
+## Current focus
+
+- Building my personal portfolio
+- Creating study projects for GitHub
+- Practicing backend with Python and Django
+- Learning AI-assisted development workflows
+- Studying MCP and agentic programming
+
+## Projects in progress
+
+- **Terminal portfolio**: personal portfolio with terminal aesthetics, language switching, and responsive layout.
+- **Finance dashboard**: study project for backend, data organization, and interface structure.
+- **Responsive landing page**: next frontend project focused on layout, visual hierarchy, and mobile experience.
+
+
 
 ## Current focus
 
