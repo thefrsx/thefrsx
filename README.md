@@ -1,64 +1,48 @@
-# 📌 Teo Gomes Farias
+<div align="center">
 
-**📍 Location:** Teresina, Piauí – Brazil  
-**🎯 Objective:** develop my skill as a backend developer with Python and Django  
-**💻 GitHub:** [github.com/thefrsx](https://github.com/thefrsx)
+# Hello, guys! I'm Teo Farias
 
----
+### FullStack Developer in progress
 
-## 🎓 Education
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teofarias/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-44ff88?style=for-the-badge&logo=githubpages&logoColor=050806)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teofariasfl@gmail.com)
 
-- **Django Master** – Course with Felipe Azambuja *(in progress)*  
-- **Complete Python** – Course by Gustavo Guanabara *(completed)*
-
----
-
-## 💻 Projects in Development
-
-### 🗂 Task Management System  
-Web app for organizing personal and professional tasks, with filters by status and due date.  
-**Technologies:** Python, Django, HTML, CSS, SQLite
-
-### 📝 Blog with Authentication  
-Blog project with user login, comment system, and admin panel.  
-**Technologies:** Django, Django Admin, Bootstrap, SQLite
+</div>
 
 ---
 
-## 🧠 Technical Skills
+<div align="center">
 
-- **Languages:** Python, HTML, CSS  
-- **Frameworks & Tools:** Django, Django Admin, Bootstrap, Git  
-- **Databases:** SQLite, PostgreSQL  
-- **Currently learning:** REST APIs, authentication, form validation, deploy (Render, PythonAnywhere), Django Admin customization  
-- **Version control:** Git (commit, push, pull), GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefrsx&layout=compact&theme=dark)
+
+</div>
 
 ---
 
-## 💼 Professional Experience
+<div align="center">
 
-### 👔 Industrial Laundry Manager and Database Engineer *(current)*  
-Team coordination, production management, and operational processes.
-Maintenance and DB developer.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🧠 Psychology Internships  
-Experience in hospital, corporate, and social settings.
-
-### 🏗 Administrative Assistant – Construction Company  
-Document organization and support in office routines.
-
----
-
-## 💡 Soft Skills
-
-- Clear communication  
-- Problem-solving  
-- Continuous learning  
-- Analytical thinking  
-- Responsibility
+</div>
 
 ---
 
-## 🌐 Languages
-- **Portuguese (Brazil)** – native
-- **English fluent** – speaking and writing
+## About me
+
+I'm a FullStack developer in progress, focused on web projects, automation, and system organization.
+
+I'm currently practicing HTML, CSS, JavaScript, Python, Django, SQL, Git, and GitHub. I'm also learning about AI-assisted development, MCP, and agentic programming.
+
+## Current focus
+
+- Building my personal portfolio
+- Creating study projects for GitHub
+- Practicing backend with Python and Django
+- Learning AI-assisted development workflows
