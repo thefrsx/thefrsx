@@ -1,4 +1,4 @@
-# 📌 Teófilo Gomes Farias
+# 📌 Teo Gomes Farias
 
 **📍 Location:** Teresina, Piauí – Brazil  
 **🎯 Objective:** develop my skill as a backend developer with Python and Django  
