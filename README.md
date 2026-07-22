@@ -14,13 +14,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thefrsx&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thefrsx&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages" />
+### Building projects with HTML, CSS, JavaScript, Python, Django and SQL
 
 </div>
 
